@@ -1,0 +1,6 @@
+.container{
+    display: flex;
+}
+.selectBox{
+    width: 200px;
+}
